@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[960],{2688:function(t,e,r){"use strict";r.r(e),r.d(e,{default:function(){return u}});var a=r(7294),n=r(5486);function u(){return a.createElement(n.Z,{projectId:"tQaW9gWJDEaD5V1LxRFrsR",component:"About"})}}}]);
+//# sourceMappingURL=component---cache-plasmic-pages-about-jsx-b60183b734679b7b4bf0.js.map
